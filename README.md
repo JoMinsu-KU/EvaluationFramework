@@ -48,7 +48,7 @@ graph TD
 
 1.  **저장소 복제:**
     ```bash
-    git clone https://github.com/your-username/your-repository-name.git
+    git clone https://github.com/JoMinsu-KU/EvaluationFramework.git
     cd your-repository-name
     ```
 
